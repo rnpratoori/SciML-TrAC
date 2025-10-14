@@ -1,0 +1,20 @@
+# Ignore temporary files
+~$*
+
+# Ignore media files
+*.pptx
+*.mp4
+*.m4a
+
+# Ignore data files
+*.npy
+*.npz
+
+# Ignore root files that are not directories
+/M1 L1.pptx
+/M2_Live.m4a
+
+# Ignore notebooks that are not the "full" version
+**/fno_1d.ipynb
+**/implicit_HE.ipynb
+**/PINN.ipynb
