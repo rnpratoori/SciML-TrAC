@@ -5,6 +5,7 @@
 *.pptx
 *.mp4
 *.m4a
+*.png
 
 # Ignore data files
 *.npy
@@ -18,3 +19,6 @@
 **/fno_1d.ipynb
 **/implicit_HE.ipynb
 **/PINN.ipynb
+
+# Ignore folders
+Quiz*/
