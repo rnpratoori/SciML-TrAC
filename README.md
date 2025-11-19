@@ -1,8 +1,8 @@
-# Scientific Machine Learning (SciML) Tutorials
+# 🧪 Scientific Machine Learning (SciML) Tutorials
 
 This repository contains a collection of tutorials and examples for various topics in Scientific Machine Learning. Each folder contains a specific module with its own set of examples and documentation.
 
-## Modules
+## 📚 Modules
 
 | Module | Description |
 | --- | --- |
@@ -14,4 +14,19 @@ This repository contains a collection of tutorials and examples for various topi
 | [SNO](./SNO) | Tutorials on Spectral Neural Operators (SNOs). |
 | [References](./References) | Collection of relevant academic papers and reading materials. |
 
-Please refer to the README file in each module's directory for more detailed information.
+## 🚀 Getting Started
+
+To get started, simply clone this repository and navigate to the module you are interested in. Each module has its own `README.md` file with detailed instructions.
+
+```bash
+git clone <repository-url>
+cd <module-folder>
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have a new tutorial or example that you would like to add, please open a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
