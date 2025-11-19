@@ -12,5 +12,6 @@ This repository contains a collection of tutorials and examples for various topi
 | [FoundationModels](./FoundationModels) | Examples of foundation models like Aurora and Poseidon. |
 | [PINNs](./PINNs) | Tutorials on Physics-Informed Neural Networks (PINNs). |
 | [SNO](./SNO) | Tutorials on Spectral Neural Operators (SNOs). |
+| [References](./References) | Collection of relevant academic papers and reading materials. |
 
 Please refer to the README file in each module's directory for more detailed information.
