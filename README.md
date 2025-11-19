@@ -19,8 +19,8 @@ This repository contains a collection of tutorials and examples for various topi
 To get started, simply clone this repository and navigate to the module you are interested in. Each module has its own `README.md` file with detailed instructions.
 
 ```bash
-git clone <repository-url>
-cd <module-folder>
+git clone https://github.com/rnpratoori/SciML-TrAC.git
+cd SciML-TrAC
 ```
 
 ## 🤝 Contributing
