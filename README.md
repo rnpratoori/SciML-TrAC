@@ -29,4 +29,4 @@ Contributions are welcome! If you have a new tutorial or example that you would 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
